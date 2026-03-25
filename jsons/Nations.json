@@ -2,12 +2,12 @@
 	{
 		"name": "Dulteron",
 		"leaderName": "Kas",
-		"adjective": ["Devil"],
+		"adjective": ["Dulteran"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Hello there",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hello there, are you willing to face your destiny?",
+		"startIntroPart2": "Our great victory awaits!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [100,100,100],
 		"uniqueName": "Hell on earth",
-		"uniques": ["[+2] Movement <for [Land] units>"],
+		"uniques": ["[+1] Movement <for [Land] units>"],
 		"cities": ["Breley","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
